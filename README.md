@@ -1,5 +1,5 @@
 # Real-State-Finance
-# King County House Price Analysis
+## King County House Price Analysis
 > Predicting residential real estate prices in King County, WA (May 2014 – May 2015)
  
 ---
