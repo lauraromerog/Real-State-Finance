@@ -17,10 +17,10 @@ This project builds a machine learning pipeline to predict house sale prices in 
 ```
 king-county-analysis/
 │
-├── king_ country_ houses_aa.csv   # Raw dataset
-├── king_county_analysis.ipynb     # Main Jupyter notebook (full pipeline)
-├── presentation.pptx              # Mini-presentation
-└── README.md                      # This file
+├── king_ country_ houses_aa.csv               # Raw dataset
+├── king_county_analysis.ipynb                 # Main Jupyter notebook (full pipeline)
+├── King_County_Presentation.pptx              # Mini-presentation
+└── README.md                                  # This file
 ```
 ---
 ## ML Pipeline
